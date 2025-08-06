@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beytullah Atasoy</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **JavaKotlinLearning**
-- 🌱 I’m currently learning **React, Vue and GSAP**
-- 💬 Ask me about **Python, Kotlin, LangChain, GitHub**
-- 📫 How to reach me: [beytullahatasoy55@gmail.com](mailto:beytullahatasoy55@gmail.com)
+- 🔭 I’m currently working on [Kotlin_Java_Learning](https://github.com/beytullahatasoy/Kotlin_Java_Learning)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
