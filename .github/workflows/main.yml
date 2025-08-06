@@ -2,23 +2,26 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # Her 6 saatte bir çalışır
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
-      - uses: Platane/snk@v3
+      - name: Generate GitHub contribution snake
+        uses: Platane/snk@v3
         with:
           github_user_name: beytullahatasoy
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake.gif
 
-      - uses: crazy-max/ghaction-github-pages@v3
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
