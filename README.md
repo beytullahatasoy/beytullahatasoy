@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beytullah Atasoy</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [my Stock Price Prediction project](https://github.com/beytullahatasoy/Stock-Price-Prediction)
+- 🔭 I’m currently working on [my Stock Price AI project](https://github.com/beytullahatasoy/StockPriceAI)
 
 - 📫 How to reach me **beytullahatasoy55@gmail.com**
 
