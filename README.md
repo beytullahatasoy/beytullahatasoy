@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beytullah Atasoy</h1>
 <h3 align="center">A passionate software developer from Türkiye</h3>
 
-- 🔭 I’m currently working on [my JavaScript project](https://github.com/beytullahatasoy/javaScript)
+- 🔭 I’m currently working on [my react native project](https://github.com/beytullahatasoy/react_native_learning)
 
 - 📫 How to reach me **beytullahatasoy55@gmail.com**
 
