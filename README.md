@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Beytullah+Atasoy;AI+%26+Cloud+Engineer;Building+Intelligent+Systems;Mobile+%2B+AI+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Beytullah+Atasoy;Mobile+%26+Cloud+Engineer;Building+Intelligent+Systems;Mobile+%2B+AI+Developer" />
   </a>
 </h1>
 
